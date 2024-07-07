@@ -1,0 +1,5 @@
+this was suppose to be a text file but since i missed .TXT at end it is in unformated way-that can be ignore
+
+comming to main subject , selenium was past but may or may not be there in future to compete Playwright since , Playwright works on JAVASCRIPT , which is used in all browsers. and it is supported by microsoft
+
+This is done on purpose.
